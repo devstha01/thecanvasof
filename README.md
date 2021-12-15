@@ -1,2 +1,1 @@
-# thecanvasof
-# thecanvasof
+# thecanvasof : Advance Blogging CMS
